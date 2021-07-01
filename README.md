@@ -1,6 +1,6 @@
 Hi, I’m @FilippoPic. :wave: I'm a nearly MSc graduate in Statistics and Actuarial Sciences from the University of Trieste (Italy) :it::mortar_board:
 
-* **Currently working on:** on Evolutionary Algorithms for solving portfolio optimization problems with MATLAB :chart_with_upwards_trend:
+* **Currently working on:** Evolutionary Algorithms for solving portfolio optimization problems with MATLAB :chart_with_upwards_trend:
 
 * **Research interests:** computational finance, portfolio optimization, mathematics applied in actuarial sciences :books:
 
